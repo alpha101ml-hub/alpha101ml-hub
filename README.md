@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=alpha101ml-hub&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -22,3 +22,25 @@ me = {
     "bias": "Action over theory. Projects over certificates."
 }
 ```
+
+---
+
+## ⚙️ Tech Stack
+
+| Languages | ML & Data | Deployment | Systems |
+|-----------|-----------|-----------|---------|
+| C++, Python | Scikit-learn, PyTorch, Pandas | FastAPI, Docker, MLflow | DSA, OS, DBMS, System Design |
+
+---
+
+## 📫 Let's Connect
+
+📧 [alpha101ml@gmail.com](mailto:alpha101ml@gmail.com)
+
+💼 [LinkedIn](https://www.linkedin.com/in/kratik-jarwal-a30892281)
+
+🐙 [GitHub](https://github.com/alpha101ml-hub)
+
+𝕏 [@alpha101ml](https://twitter.com/alpha101ml)
+
+---

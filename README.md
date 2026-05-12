@@ -64,11 +64,6 @@ kratik = {
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alpha101ml-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&icon_color=1D9E75&text_color=C9D1D9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpha101ml-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&text_color=C9D1D9" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=alpha101ml-hub&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F77DD&ring=1D9E75&fire=D85A30&currStreakLabel=C9D1D9" />
 </p>
 
@@ -102,5 +97,5 @@ kratik = {
 </p>
 
 <p align="center">
-  Made with ❤️ by <strong>Kratik Jarwal</strong>
+  Made with 🦾 by <strong>Kratik Jarwal 💻 </strong>
 </p>

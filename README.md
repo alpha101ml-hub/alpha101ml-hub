@@ -44,3 +44,9 @@ me = {
 𝕏 [@alpha101ml](https://twitter.com/alpha101ml)
 
 ---
+
+## 📈 GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alpha101ml-hub&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" /> </p>
+
+---

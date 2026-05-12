@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Kratik Jarwal 👋</h1>
 
-<!--
-**alpha101ml-hub/alpha101ml-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=I+am+a+Data+engineer;I+am+a+Data+Scientist;I+am+AI+Enthusiast" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ishaangoyal0010&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+# I'm Kratik Jarwal from Jaipur, India. You can view my professional experience here: **[📄 Download My Resume]**
+
+#🔬 Passionate about **AI Enineering**, **Machine Learning**, and **System Design and Engineering**  
+
+#📱 Experienced in **GENAI , Inurons and DEEP Learning**  
+
+#💻 Project-driven learner with a bias toward action and exploration  
+
+---
+
+
+---
+<p align="center"> <img src="https://github.com/FR34KY-CODER/FR34KY-CODER/blob/main/footer.png?raw=true" width=wrap_content /> </p>

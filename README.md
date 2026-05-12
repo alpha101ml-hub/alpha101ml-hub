@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-# I'm Kratik Jarwal from Jaipur, India. You can view my professional experience here: **[📄 Download My Resume]**
+### I'm Kratik Jarwal from Jaipur, India. You can view my professional experience here: **[📄 Download My Resume]**
 
 #🔬 Passionate about **AI Engineering**, **Machine Learning**, and **System Design and Engineering**  
 

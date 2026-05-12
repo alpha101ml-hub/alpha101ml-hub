@@ -64,7 +64,7 @@ kratik = {
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alpha101ml-hub&theme=tokyonight&hide_border=true&cache_seconds=1800&background=0D1117&stroke=7F77DD&ring=1D9E75&fire=D85A30&currStreakLabel=C9D1D9" />
+ <img src="https://streak-stats.demolab.com?user=alpha101ml-hub&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F77DD&ring=1D9E75&fire=D85A30&currStreakLabel=C9D1D9" />
 </p>
 
 <p align="center">

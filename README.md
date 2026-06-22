@@ -1,11 +1,12 @@
 <h1 align="center">Hi there, I'm Kratik Jarwal 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=AI+Engineering+%7C+Systems+Design;End-to-End+ML+Pipelines;DSA+in+C%2B%2B+%7C+Python;Debugging+as+a+First-Class+Skill;Building+Production+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=AI+Engineering+%7C+Systems+Design;System+Engineering+%7C+Architecture+%26+Integration;End-to-End+ML+Pipelines;DSA+in+C%2B%2B+%7C+Python;Debugging+as+a+First-Class+Skill;Building+Production+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI_Engineering-Explainable%20%7C%20Deployable-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/System_Engineering-Integration%20%7C%20Scalability-orange?style=flat-square"/>
   <img src="https://img.shields.io/badge/Systems_Thinking-Trade--offs%20%7C%20Architecture-brightgreen?style=flat-square"/>
   <img src="https://img.shields.io/badge/DSA-LeetCode%20%7C%20C%2B%2B%20%7C%20Python-red?style=flat-square"/>
 </p>

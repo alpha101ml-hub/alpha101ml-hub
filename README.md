@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI_Engineering-Explainable%20%7C%20Deployable-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/System%20Engineering-Integration%20%7C%20Scalability-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/System%20Eng.-Integration%20%7C%20Scalability-orange?style=flat-square"/>
   <img src="https://img.shields.io/badge/Systems_Thinking-Trade--offs%20%7C%20Architecture-brightgreen?style=flat-square"/>
   <img src="https://img.shields.io/badge/DSA-LeetCode%20%7C%20C%2B%2B%20%7C%20Python-red?style=flat-square"/>
 </p>
